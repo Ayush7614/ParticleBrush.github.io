@@ -28,7 +28,7 @@ Made with :heart: and javascript by Ayush
 
 - Fork and Clone the repository using-
 ```
-git clone https://ayush7614.github.io/ParticleBrush.github.io
+git clone https://ayush7614.github.io/ParticleBrush.github.io.git
 ```
 - Create a Branch- 
 ```
@@ -40,6 +40,6 @@ git checkout -b <branch_name>
 - JS
 
 ## Contributing
-* Clone the repo: `git clone https://ayush7614.github.io/ParticleBrush.github.io
+* Clone the repo: `git clone https://ayush7614.github.io/ParticleBrush.github.io.git`
 * Open the repo in your local machine and open the `index.html` to run the app in your browser.</br> </br>
 
