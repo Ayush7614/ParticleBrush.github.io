@@ -14,7 +14,7 @@ Try the **[demo](https://ayush7614.github.io/ParticleBrush.github.io/)**
 ---------
 
 ## Author
-* [Anurag Hazra](https://Ayush7614.github.io)
+* [Ayush Kumar](https://ayush7614.github.io/ayushportfolio.github.io/)
 * ayushknj3@gmail.com
 
 Made with :heart: and javascript by Ayush
